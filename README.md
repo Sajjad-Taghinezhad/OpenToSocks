@@ -1,5 +1,7 @@
 # Open To Socks
 
+OpenVPN to Scoks
+
 This docker image connects to given OpenVPN-server and creates socks5-proxy to local host machine port 8181. It is useful if you don't want to tunnel all device traffic through VPN but just couple apps.
 
 ## How does it work?
