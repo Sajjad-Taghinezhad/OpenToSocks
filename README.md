@@ -15,6 +15,6 @@ Internet <--> OpenVPN-Server <--> SocksVPN(OpenVPN Client <-- SSH-Server <-- SSH
 
 
 ## Todo 
-- [ ] cat set specific port 
+- [ ] can set specific port 
 - [ ] script for start multi connection 
 - [ ] integrate with v2ray
